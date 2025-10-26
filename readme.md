@@ -1,10 +1,14 @@
-# EGES Code
+# EGES: Surrogate-assisted Efficient Grouping Evolutionary Search
 
-This code is part of the program that produces the results in the following paper:
-Huixiang Zhen, Wenyin Gong, Ling Wang, and Xiangyun Hu. "Surrogate-assisted efficient grouping evolutionary search for expensive large-scale multi-objective optimization", IEEE transactions on Evolutionary Computation, accepted, 2025, Accepted.
+This repository contains the **official implementation** of the algorithm presented in our paper:
 
-/EGES               # Our code
-/PlatEMO-master     # Operating Environment
+> Huixiang Zhen, Wenyin Gong, Ling Wang, and Xiangyun Hu. "Surrogate-assisted Efficient Grouping Evolutionary Search for Expensive Large-Scale Multi-Objective Optimization", *IEEE Transactions on Evolutionary Computation*, 2025 (Accepted).
 
-This matlab code was written by Huixiang Zhen, School of Computer Science, China University of Geoscience. 
-Please refer with all questions, comments, bug reports, etc. to zhenhuixiang@cug.edu.cn.# EGES
+## Repository Structure
+- `/EGES` - The main MATLAB source code for our EGES algorithm.
+- `/PlatEMO-master` - The [PlatEMO](https://github.com/BIMK/PlatEMO) framework, providing the operating environment.
+
+## Contact
+This MATLAB code was developed by [Huixiang Zhen](https://github.com/zhenhuixiang) from the School of Computer Science, China University of Geosciences.
+
+For questions, comments, or bug reports, please contact: zhenhuixiang@cug.edu.cn
